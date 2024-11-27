@@ -4,7 +4,7 @@
 
 
 
-- 🤝 I learn on different platforms **Youtube, TryHackMe, Github...**
+- 🤝 I learn on different platforms **Youtube, TryHackMe, Github, Edx ,roadmap.sh...**
  
 
 
