@@ -1,9 +1,6 @@
 
 <p align="left"><img src=https://komarev.com/ghpvc/?username=xatoo&label=Profile%20views&color=blue&style=for-the-badge" alt="xatoo" /></p>
 
-
-
-- 🤝 I learn on different platforms **Youtube, TryHackMe, Github, Edx ,roadmap.sh...**
  
 
 
