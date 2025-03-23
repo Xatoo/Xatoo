@@ -8,11 +8,6 @@
 
 
 
-## Contact me :
-
-- 📧 Email: hugo.delhelle@gmail.com
-
-
 ## Skills :
 
 
